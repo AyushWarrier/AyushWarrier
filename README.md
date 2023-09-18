@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Warrier</h1>
 <h3 align="center">A student who is passionate enough to make a GitHUB Account</h3>
 
-- 🔭 I’m currently working on **Social Media Platform**
+- 🔭 I’m currently working on **Social Networking Platform**
 
 - 🌱 I’m currently learning **JavaScript & Python**
 
