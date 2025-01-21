@@ -5,7 +5,7 @@
 
 - 🤝 Open to teaming up for **UI/UX design projects or beginner-friendly cybersecurity initiatives.**
 
-- 👨‍💻 Check out my Portfolio [warrierayush.xyz](warrierayush.xyz)
+- 👨‍💻 Check out my Portfolio [warrierayush.xyz](https://warrierayush.xyz/)
 
 - 🤔 Always up for a chat on **UI/UX design tips, freelancing experiences, or how to get started with cybersecurity.**
 
