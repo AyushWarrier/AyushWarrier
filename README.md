@@ -26,5 +26,6 @@
 <p><a href="https://ko-fi.com/ayushwarrier"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ayushwarrier" /></a></p><br><be>
 
 <h3 align="left">TryHackMe Badge:</h3>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4025996" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ayush.Warrier.png" alt="Your Image Badge" />
+
 
