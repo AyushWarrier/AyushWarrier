@@ -3,11 +3,11 @@
 
 - 🛠️ Currently focused on UI/UX design while learning the basics of Web Engineering (frontend, backend, and how the web works)
 
-- 🤝 I like turning ideas into simple, clean designs and eventually want to code the things I design
+- 🎨 I like turning ideas into simple, clean designs and eventually want to code the interfaces I design
  
-- 👨‍💻 Check out my Portfolio [warrierayush.xyz](https://warrierayush.xyz/)
+- 👨‍💻 Open to collaborating on design or beginner web projects
 
-- 🤔 Always up for a chat on **UI/UX design tips, freelancing experiences, or how to get started with cybersecurity.**
+- 🧩 Learning, experimenting, and figuring things out as I go
 
 - 📫 Reach out to me through **warrierayush@gmail.com**
 
