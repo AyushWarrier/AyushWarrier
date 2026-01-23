@@ -1,9 +1,9 @@
 <h1 align="center">Hey there👋! I'm Ayush Warrier</h1>
-<h3 align="center">I design interfaces and I'm learning how the web works</h3>
+<h3 align="center">I design interfaces while learning how the web works</h3>
 
 - 🛠️ Currently focused on UI/UX design while learning the basics of Web Engineering (frontend, backend, and how the web works)
 
-- 🤝 Open to teaming up for **UI/UX design projects or beginner-friendly cybersecurity initiatives.**
+- 🤝 I like turning ideas into simple, clean designs and eventually want to code the things I design
  
 - 👨‍💻 Check out my Portfolio [warrierayush.xyz](https://warrierayush.xyz/)
 
