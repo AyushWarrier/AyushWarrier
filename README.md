@@ -1,6 +1,6 @@
 <h1 align="center">Hey there👋! I'm Ayush Warrier</h1>
 <h3 align="center">I design interfaces while learning how the web works</h3>
-
+ 
 - 🛠️ Currently focused on UI/UX design while learning the basics of Web Engineering (frontend, backend, and how the web works)
 
 - 🎨 I like turning ideas into simple, clean designs and eventually want to code the interfaces I design
