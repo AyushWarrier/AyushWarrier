@@ -40,10 +40,12 @@
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushWarrier&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushWarrier&layout=compact&theme=dark" />
 </p>
