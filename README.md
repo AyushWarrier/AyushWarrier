@@ -42,7 +42,6 @@
       alt="Linux" width="40" height="40"/>
   </a>
 </p>
->
 
 ### 🌐 Connect With Me
 <p align="left">
@@ -64,7 +63,20 @@
   </a>
 </p>
 
-### Support:
+### ✍️ Blog Posts
+<p>
+• <a href="https://medium.com/@your-link/how-to-create-a-clean-github-profile-readme" target="_blank">
+  How to Create a Clean GitHub Profile README
+</a>
+</p>
+
+<p>
+• <a href="https://medium.com/@your-link/best-ui-ux-design-resources-for-beginners" target="_blank">
+  Best UI/UX Design Resources for Beginners
+</a>
+</p>
+
+### ☕ Support:
 <p>
   <a href="https://ko-fi.com/ayushwarrier"> 
     <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ayushwarrier" />
