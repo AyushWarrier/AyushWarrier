@@ -40,8 +40,6 @@
   </a>
 </p>
 
-<br><br><br>
-
 ### 📈 Statistics:
 
 <p>
