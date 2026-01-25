@@ -4,36 +4,21 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <!-- Languages -->
-  <a href="https://www.w3.org/html/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="display:inline-block;"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="display:inline-block;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="display:inline-block;"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="display:inline-block;"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="display:inline-block;"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="display:inline-block;"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="display:inline-block;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/ayush-warrier)
-[![Behance](https://cdn-icons-png.flaticon.com/512/145/145799.png)](https://www.behance.net/ayush-warrier)
-[![Instagram](https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg)](https://www.instagram.com/itsayushbtw_works/)
-[![Medium](https://cdn.worldvectorlogo.com/logos/medium-m-1.svg)](https://medium.com/@warrierayush)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>](https://www.linkedin.com/in/ayush-warrier)
+[<img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="40" height="40"/>](https://www.behance.net/ayush-warrier)
+[<img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" width="40" height="40"/>](https://www.instagram.com/itsayushbtw_works/)
+[<img src="https://cdn.worldvectorlogo.com/logos/medium-m-1.svg" width="40" height="40"/>](https://medium.com/@warrierayush)
 
 ### ✍️ Blog Posts
 <p>
