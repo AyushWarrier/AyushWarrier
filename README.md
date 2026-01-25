@@ -29,20 +29,11 @@
 </p>
 
 ### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayush-warrier" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="display:inline-block;"/>
-  </a>
-  <a href="https://www.behance.net/ayush-warrier" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="Behance" width="40" height="40" style="display:inline-block;"/>
-  </a>
-  <a href="https://www.instagram.com/itsayushbtw_works/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="Instagram" width="40" height="40" style="display:inline-block;"/>
-  </a>
-  <a href="https://medium.com/@warrierayush" target="_blank" style="text-decoration:none;">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="Medium" width="40" height="40" style="display:inline-block;"/>
-  </a>
-</p>
+
+[![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/ayush-warrier)
+[![Behance](https://cdn-icons-png.flaticon.com/512/145/145799.png)](https://www.behance.net/ayush-warrier)
+[![Instagram](https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg)](https://www.instagram.com/itsayushbtw_works/)
+[![Medium](https://cdn.worldvectorlogo.com/logos/medium-m-1.svg)](https://medium.com/@warrierayush)
 
 ### ✍️ Blog Posts
 <p>
