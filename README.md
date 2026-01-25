@@ -15,9 +15,9 @@
 
 ### 🌐 Connect With Me
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>](https://www.linkedin.com/in/ayush-warrier)
-[<img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="40" height="40"/>](https://www.behance.net/ayush-warrier)
-[<img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" width="40" height="40"/>](https://www.instagram.com/itsayushbtw_works/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-warrier)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ayush-warrier)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsayushbtw_works/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@warrierayush)
 
 ### ✍️ Blog Posts
