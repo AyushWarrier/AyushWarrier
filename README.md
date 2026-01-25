@@ -1,4 +1,4 @@
-<h1 align="center">Hey there👋! I'm Ayush Warrier</h1>
+<img src="./top-text.png">
 <h3 align="center">I design interfaces while learning how the web works</h3>
  
 - 🛠️ Currently focused on UI/UX design while learning the basics of Web Engineering (frontend, backend, and how the web works)
