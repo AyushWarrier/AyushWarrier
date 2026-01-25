@@ -18,7 +18,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>](https://www.linkedin.com/in/ayush-warrier)
 [<img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="40" height="40"/>](https://www.behance.net/ayush-warrier)
 [<img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" width="40" height="40"/>](https://www.instagram.com/itsayushbtw_works/)
-[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="40" height="40"/>](https://medium.com/@warrierayush)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@warrierayush)
 
 ### ✍️ Blog Posts
 <p>
