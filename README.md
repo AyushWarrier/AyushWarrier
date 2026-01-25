@@ -1,6 +1,6 @@
 <img src="./top-text.png" alt="Namaste 🙏, <builders />">
 
-# **Namaste** is a way to greet someone in India. Hi, I'm **Ayush Warrier**. I like designing clean and simple interfaces, and I'm learning Web Engineering so I can build the interfaces I design in the future.
+**Namaste** is a way to greet someone in India. Hi, I'm **Ayush Warrier**. I like designing clean and simple interfaces, and I'm learning Web Engineering so I can build the interfaces I design in the future.
 
 ### 🛠️ Tech Stack
 <p align="left">
@@ -17,10 +17,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="Python" width="40" height="40"/>
-  </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="Java" width="40" height="40"/>
@@ -32,10 +28,6 @@
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="Git" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -50,11 +42,11 @@
       alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.behance.net/ayush-warrier" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg"
+    <img src="https://cdn.worldvectorlogo.com/logos/behance-1.svg"
       alt="Behance" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/itsayushbtw_works/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg"
+    <img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg"
       alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://medium.com/@warrierayush" target="_blank">
