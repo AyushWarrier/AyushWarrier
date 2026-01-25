@@ -18,17 +18,17 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>](https://www.linkedin.com/in/ayush-warrier)
 [<img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="40" height="40"/>](https://www.behance.net/ayush-warrier)
 [<img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" width="40" height="40"/>](https://www.instagram.com/itsayushbtw_works/)
-[<img src="https://cdn.worldvectorlogo.com/logos/medium-m-1.svg" width="40" height="40"/>](https://medium.com/@warrierayush)
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="40" height="40"/>](https://medium.com/@warrierayush)
 
 ### ✍️ Blog Posts
 <p>
-• <a href="https://medium.com/@your-link/how-to-create-a-clean-github-profile-readme" target="_blank">
+<a href="https://medium.com/@your-link/how-to-create-a-clean-github-profile-readme" target="_blank">
   How to Create a Clean GitHub Profile README
 </a>
 </p>
 
 <p>
-• <a href="https://medium.com/@your-link/best-ui-ux-design-resources-for-beginners" target="_blank">
+<a href="https://medium.com/@your-link/best-ui-ux-design-resources-for-beginners" target="_blank">
   Best UI/UX Design Resources for Beginners
 </a>
 </p>
