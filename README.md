@@ -1,6 +1,6 @@
 <img src="./top-text.png" alt="Namaste 🙏, <builders />">
 
-**Namaste** is a way to greet someone in India. Hi, I'm **Ayush Warrier**. I like designing clean and simple interfaces, and I'm learning Web Engineering so I can build the interfaces I design in the future.
+# **Namaste** is a way to greet someone in India. Hi, I'm **Ayush Warrier**. I like designing clean and simple interfaces, and I'm learning Web Engineering so I can build the interfaces I design in the future.
 
 ### 🛠️ Tech Stack
 <p align="left">
