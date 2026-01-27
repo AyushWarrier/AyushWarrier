@@ -48,7 +48,7 @@
 
 <br><br>
 
-### 📈 Statistics:
+### Statistics:
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=AyushWarrier&show_icons=true&theme=dark" />
