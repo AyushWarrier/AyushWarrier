@@ -33,6 +33,12 @@
 </a>
 </p>
 
+<p>
+<a href="https://medium.com/@your-link/best-vs-code-extensions-for-beginners" target="_blank">
+  Best VS-Code Extensions for Web Developement
+</a>
+</p>
+
 ### ☕ Support:
 <p>
   <a href="https://ko-fi.com/ayushwarrier"> 
