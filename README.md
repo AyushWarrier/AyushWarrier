@@ -19,10 +19,10 @@ I don't really like sticking to one box. I just like building things.
 
 ### What I'm up to
 
-- 🚀 Building **Tavro**, a product of my own.
-- 🎨 Exploring UI/UX, product design and branding.
-- 💻 Learning and experimenting with web technologies.
-- 💡 Turning random ideas into actual products.
+- Building **Tavro**, a product of my own.
+- Exploring UI/UX, product design and branding.
+- Learning and experimenting with web technologies.
+- Turning random ideas into actual products.
 
 ### Things I work with
 
@@ -69,5 +69,5 @@ If you like what I build and want to support my experiments (or just get my atte
 ---
 
 <p align="center">
-  <i>Ideas are cheap. I like building them.</i>
+  <i>Ideas come to me and I like building and bringing them to life</i>
 </p>
