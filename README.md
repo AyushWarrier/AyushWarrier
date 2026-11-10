@@ -45,10 +45,12 @@ I don't really like sticking to one box. I just like building things.
 
 ### Find me around the internet
 
-<p align="left">
+<p>
   <a href="https://warrierayush.me/" target="_blank">
     Portfolio
   </a>
+</p>
+<p>
   <a href="https://www.linkedin.com/in/ayush-warrier/" target="_blank">
     LinkedIN
   </a>
