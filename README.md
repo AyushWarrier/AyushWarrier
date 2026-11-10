@@ -1,16 +1,71 @@
-## Hi there 👋
 
-<!--
-**AyushWarrier/AyushWarrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm Ayush 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Product Builder · Designer · Experimenter</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I like taking ideas from "what if?" to "it's live!"
+</p>
+
+---
+
+### A little about me
+
+I'm currently working as a **UI/UX Intern at miniOrange**.
+
+I enjoy getting my hands into pretty much every part of building a product — from planning, branding and design to development, marketing and everything in between.
+
+I don't really like sticking to one box. I just like building things.
+
+### What I'm up to
+
+- 🚀 Building **Tavro**, a product of my own.
+- 🎨 Exploring UI/UX, product design and branding.
+- 💻 Learning and experimenting with web technologies.
+- 💡 Turning random ideas into actual products.
+
+### Things I work with
+
+**Design**
+- Figma
+
+**Frontend**
+- HTML, CSS, JavaScript
+
+**Backend & Database**
+- Node.js, Express.js, Supabase, MongoDB, SQL
+
+### Ask me about
+
+- Product building & ideation
+- UI/UX and design
+- Frontend development
+- Branding and product strategy
+- Turning ideas into products
+
+### Find me around the internet
+
+<p align="left">
+  <a href="https://warrierayush.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ayush-warrier/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+### Buy me a coffee ☕
+
+If you like what I build and want to support my experiments (or just get my attention), my Ko-fi notifications are always ON. 👀
+
+<p>
+  <a href="https://ko-fi.com/ayushwarrier" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Ideas are cheap. I like building them.</i>
+</p>
