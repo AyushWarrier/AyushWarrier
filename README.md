@@ -47,10 +47,10 @@ I don't really like sticking to one box. I just like building things.
 
 <p align="left">
   <a href="https://warrierayush.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    Portfolio
   </a>
   <a href="https://www.linkedin.com/in/ayush-warrier/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    LinkedIN
   </a>
 </p>
 
