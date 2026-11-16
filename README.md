@@ -11,7 +11,7 @@
 
 ### A little about me
 
-I'm currently working as a **UI/UX Designer at XXX**.
+I'm currently working as a **UI/UX Designer at xxx company**.
 
 I enjoy getting my hands into pretty much every part of building a product — from planning, branding and design to development, marketing and everything in between.
 
